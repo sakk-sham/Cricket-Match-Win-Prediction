@@ -8,3 +8,4 @@ This project predicts the winner of future T20 cricket matches based on the prev
 We were allowed to use only Boosting algorithms - XGBoost, Catboost, LGBM, GBM. We used all the four and also a combination of ensemble models. We found that Catboost model was giving the best accuracy in our test split of the data.
 
 ## Structure of the Project
+![Model Structure](https://github.com/user-attachments/assets/391402c7-8a38-4ccd-a2e4-6da925b2a49d)
